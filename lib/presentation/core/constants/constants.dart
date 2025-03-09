@@ -8,6 +8,7 @@ class Constants {
   static const bool useLottieProgress = true;
 
   static const String appName = '';
+  static const String cancel = 'Cancel';
 }
 
 class MediaConstants {
